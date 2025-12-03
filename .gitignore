@@ -1,0 +1,11 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/tmp/
+erl_crash.dump
+*.ez
+manga_crawler-*.tar
+*.env
+.env.*
+.elixir_ls/
