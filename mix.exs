@@ -33,7 +33,8 @@ defmodule MangaCrawler.MixProject do
       {:postgrex, "~> 0.16"},
       {:finch, "~> 0.16"},
       {:floki, "~> 0.33"},
-      {:dotenv, "~> 3.1", runtime: false}
+      {:dotenv, "~> 3.1", runtime: false},
+      {:hocon, "~> 0.1.8"}
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
     ]
   end
